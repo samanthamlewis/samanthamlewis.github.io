@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\nRLadies+\n\nQuarto\n\nR\n\n\n\nFun Times with RLadies+ SB\n\n\n\nSamantha M Lewis\n\n\nMay 13, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/my_first_post/index.html",
+    "href": "posts/my_first_post/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "This is where I will write super cool and profound things."
   }
 ]

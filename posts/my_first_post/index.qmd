@@ -1,0 +1,13 @@
+---
+title: "My First Blog Post"
+description: "Fun Times with RLadies+ SB"
+author:
+  - name: Samantha M Lewis
+    affiliation: Me
+    # url: hyperlink 
+date: 2026-05-13
+categories: [RLadies+, Quarto, R]
+# image: save in post folder
+---
+
+This is where I will write super cool and profound things.
