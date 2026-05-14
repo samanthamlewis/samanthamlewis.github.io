@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+// Import Googles
+
+// Colors
+$light-purple: #E7D1FF;
+$dark-purple: #27004D;
+$pink: #ff5b92;
+$gray: #3B3B3B;
+
+// Update Quarto sass variables
+$body-bg: $light-purple;
+$navbar-bg: $dark-purple; // background
+$navbar-fg: $light-purple; //foreground
+$navbar-hl: $pink;
+$link-color: $pink;
+$body-color: $gray;

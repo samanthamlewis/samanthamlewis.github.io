@@ -3,20 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "samanthamlewis.github.io"
+  title: "Samantha M Lewis"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources
+        
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
+    mainfont: Elms Sans
     toc: true
+    page-layout: full
 
 editor: visual
 
